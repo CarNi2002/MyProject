@@ -1,0 +1,23 @@
+body{
+    background-image: url("img/FONDO.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+}
+
+li{
+    text-align: justify;
+}
+
+p{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+section{
+    margin-left: 220px;
+    margin-right: 220px;
+}
