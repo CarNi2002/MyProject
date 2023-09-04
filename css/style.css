@@ -15,9 +15,37 @@ li{
 p{
     margin-left: 150px;
     margin-right: 150px;
+    text-align: justify;
 }
 
 section{
     margin-left: 220px;
     margin-right: 220px;
+}
+
+div{
+    text-align: center;
+}
+
+.img{
+    border-radius: 15px;
+    width: 320px;
+    height: 160px;
+    box-shadow: 0px 0px 15px black;
+}
+
+.img2{
+    border-radius: 15px;
+    width: 450px;
+    height: 220px;
+    box-shadow: 0px 0px 15px black;
+}
+
+footer{
+    text-align: right;   
+    color: rgba(0, 0, 0, 0.53);
+}
+
+.nombre{
+    margin-bottom: -20px;
 }
